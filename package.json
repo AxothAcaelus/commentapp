@@ -1,0 +1,19 @@
+{
+	"author": "Stetson Wood",
+	"name": "weatherapp.stetsonwood",
+	"version": "0.0.3",
+	"description": "Find weather in Utah",
+	"main": "server",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AxothAcaelus/weatherApp.git"
+	},
+	"keywords": [
+		"weather",
+		"Utah"
+	],
+	"dependiencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
